@@ -1,0 +1,7 @@
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.2\bin\Debug\Assignment 4.2.exe.config
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.2\bin\Debug\Assignment 4.2.exe
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.2\bin\Debug\Assignment 4.2.pdb
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.2\obj\Debug\Assignment 4.2.csproj.AssemblyReference.cache
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.2\obj\Debug\Assignment 4.2.csproj.CoreCompileInputs.cache
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.2\obj\Debug\Assignment 4.2.exe
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.2\obj\Debug\Assignment 4.2.pdb

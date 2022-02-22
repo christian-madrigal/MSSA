@@ -1,0 +1,7 @@
+C:\MSSA Training\3. 20483\Assignments\Assignment 4.1\obj\Debug\Assignment 4.1.csproj.AssemblyReference.cache
+C:\MSSA Training\3. 20483\Assignments\Assignment 4.1\obj\Debug\Assignment 4.1.csproj.CoreCompileInputs.cache
+C:\MSSA Training\3. 20483\Assignments\Assignment 4.1\bin\Debug\Assignment 4.1.exe.config
+C:\MSSA Training\3. 20483\Assignments\Assignment 4.1\bin\Debug\Assignment 4.1.exe
+C:\MSSA Training\3. 20483\Assignments\Assignment 4.1\bin\Debug\Assignment 4.1.pdb
+C:\MSSA Training\3. 20483\Assignments\Assignment 4.1\obj\Debug\Assignment 4.1.exe
+C:\MSSA Training\3. 20483\Assignments\Assignment 4.1\obj\Debug\Assignment 4.1.pdb

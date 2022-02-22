@@ -1,0 +1,10 @@
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\bin\Debug\Assignment 4.3.exe.config
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\bin\Debug\Assignment 4.3.exe
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\bin\Debug\Assignment 4.3.pdb
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\obj\Debug\Assignment 4.3.csproj.AssemblyReference.cache
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\obj\Debug\Assignment_4._3.Form1.resources
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\obj\Debug\Assignment_4._3.Properties.Resources.resources
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\obj\Debug\Assignment 4.3.csproj.GenerateResource.cache
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\obj\Debug\Assignment 4.3.csproj.CoreCompileInputs.cache
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\obj\Debug\Assignment 4.3.exe
+D:\MSSA Training\3. 20483\Assignments\Week 4\Assignment 4.3\obj\Debug\Assignment 4.3.pdb
