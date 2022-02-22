@@ -1,0 +1,6 @@
+D:\MSSA Training\3. 20483\Assignments\Week 5\Assignment 5.4 BookDll\bin\Debug\Assignment 5.4 BookDll.dll
+D:\MSSA Training\3. 20483\Assignments\Week 5\Assignment 5.4 BookDll\bin\Debug\Assignment 5.4 BookDll.pdb
+D:\MSSA Training\3. 20483\Assignments\Week 5\Assignment 5.4 BookDll\obj\Debug\Assignment 5.4 BookDll.csproj.AssemblyReference.cache
+D:\MSSA Training\3. 20483\Assignments\Week 5\Assignment 5.4 BookDll\obj\Debug\Assignment 5.4 BookDll.csproj.CoreCompileInputs.cache
+D:\MSSA Training\3. 20483\Assignments\Week 5\Assignment 5.4 BookDll\obj\Debug\Assignment 5.4 BookDll.dll
+D:\MSSA Training\3. 20483\Assignments\Week 5\Assignment 5.4 BookDll\obj\Debug\Assignment 5.4 BookDll.pdb
