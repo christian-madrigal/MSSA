@@ -1,0 +1,7 @@
+C:\MSSA Training\10975\Assignment\Assignment1.3 Part 2\bin\Debug\Assignment1.3 Part 2.exe.config
+C:\MSSA Training\10975\Assignment\Assignment1.3 Part 2\bin\Debug\Assignment1.3 Part 2.exe
+C:\MSSA Training\10975\Assignment\Assignment1.3 Part 2\bin\Debug\Assignment1.3 Part 2.pdb
+C:\MSSA Training\10975\Assignment\Assignment1.3 Part 2\obj\Debug\Assignment1.3 Part 2.csproj.AssemblyReference.cache
+C:\MSSA Training\10975\Assignment\Assignment1.3 Part 2\obj\Debug\Assignment1.3 Part 2.csproj.CoreCompileInputs.cache
+C:\MSSA Training\10975\Assignment\Assignment1.3 Part 2\obj\Debug\Assignment1.3 Part 2.exe
+C:\MSSA Training\10975\Assignment\Assignment1.3 Part 2\obj\Debug\Assignment1.3 Part 2.pdb
