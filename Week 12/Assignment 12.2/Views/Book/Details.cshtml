@@ -1,0 +1,48 @@
+﻿@model Assignment_12._2.Models.Book
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-white">Details</h1>
+<div class="text-center text-white">
+    <dl class="align-middle">
+        <dt>
+            @Html.DisplayNameFor(model=>model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model=>model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model=>model.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model=>model.Title)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model=>model.Author)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model=>model.Author)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model=>model.Year)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model=>model.Year)
+        </dd>
+
+    </dl>
+
+    <div style="padding:10px;">
+        @if(Model.ImageName!="")
+        {
+            <img src="~/images/@Model.ImageName" alt="@Model.ImageName" height="200"/>
+        }
+    </div>
+</div>
+
+@Html.ActionLink("Back to Books", "Index", "Book", null, new{id="OT",style="font-size:larger;color:white"})
+<br/>
+@Html.ActionLink("Back to Home", "Index", "Home", null, new{id="OT",style="font-size:larger;color:white"})
+
