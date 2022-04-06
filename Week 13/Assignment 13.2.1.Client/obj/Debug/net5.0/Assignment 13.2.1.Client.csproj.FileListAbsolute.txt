@@ -1,0 +1,39 @@
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\appsettings.Development.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\appsettings.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.exe
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.deps.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.runtimeconfig.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.runtimeconfig.dev.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.pdb
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.Views.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.Views.pdb
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.csproj.AssemblyReference.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.AssemblyInfoInputs.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.AssemblyInfo.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.csproj.CoreCompileInputs.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorAssemblyInfo.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorAssemblyInfo.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\scopedcss\bundle\Assignment 13.2.1.Client.styles.css
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\staticwebassets\Assignment 13.2.1.Client.StaticWebAssets.Manifest.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.TagHelpers.input.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.TagHelpers.output.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorCoreGenerate.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorTargetAssemblyInfo.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorTargetAssemblyInfo.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.Views.pdb
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\refint\Assignment 13.2.1.Client.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.pdb
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.genruntimeconfig.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\ref\Assignment 13.2.1.Client.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.csproj.CopyComplete

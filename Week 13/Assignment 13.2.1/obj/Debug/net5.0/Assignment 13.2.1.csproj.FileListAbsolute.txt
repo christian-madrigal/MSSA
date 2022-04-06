@@ -1,0 +1,28 @@
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\appsettings.Development.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\appsettings.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Assignment 13.2.1.exe
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Assignment 13.2.1.deps.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Assignment 13.2.1.runtimeconfig.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Assignment 13.2.1.runtimeconfig.dev.json
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Assignment 13.2.1.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Assignment 13.2.1.pdb
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.csproj.AssemblyReference.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.AssemblyInfoInputs.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.AssemblyInfo.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.csproj.CoreCompileInputs.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.MvcApplicationPartsAssemblyInfo.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.MvcApplicationPartsAssemblyInfo.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\scopedcss\bundle\Assignment 13.2.1.styles.css
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\staticwebassets\Assignment 13.2.1.StaticWebAssets.Manifest.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.RazorTargetAssemblyInfo.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.csproj.CopyComplete
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\refint\Assignment 13.2.1.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.pdb
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\Assignment 13.2.1.genruntimeconfig.cache
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1\obj\Debug\net5.0\ref\Assignment 13.2.1.dll
