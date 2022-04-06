@@ -1,0 +1,230 @@
+﻿++Solution 'Assignment 13.2' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Assignment 13.2.sln
+++Assignment 13.2
+i:{00000000-0000-0000-0000-000000000000}:Assignment 13.2
+++Connected Services 
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:>1199
+++Dependencies
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:>1198
+++Properties
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\properties\
+++launchSettings.json
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\properties\launchsettings.json
+++wwwroot
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\
+++css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\css\
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\
+++2.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\2.jpg
+++3.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\3.jpg
+++4.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\4.jpg
+++5.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\5.jpg
+++6.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\6.jpg
+++7.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\7.jpg
+++bg.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\bg.jpg
+++flyingbox.gif
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\flyingbox.gif
+++last.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\last.jpg
+++wallpaper.jpg
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\images\wallpaper.jpg
+++js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\js\
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\
+++site.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\js\site.js
+++lib
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\
+++bootstrap
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\
+++jquery
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery\
+++jquery-validation
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation-unobtrusive\
+++Controllers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\controllers\
+++HomeController.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\controllers\homecontroller.cs
+++ProductController.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\controllers\productcontroller.cs
+++Filters
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\filters\
+++SimpleActionFilter.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\filters\simpleactionfilter.cs
+++Models
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\
+++Data.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\data.cs
+++DBData.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\dbdata.cs
+++ErrorViewModel.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\errorviewmodel.cs
+++IData.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\idata.cs
+++IndexViewModel.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\indexviewmodel.cs
+++Product.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\product.cs
+++ProductContext.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\models\productcontext.cs
+++Views
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\
+++Home
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\home\
+++Error.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\shared\error.cshtml
+++Index.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\home\index.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\product\index.cshtml
+++Privacy.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\home\privacy.cshtml
+++Product
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\product\
+++Create.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\product\create.cshtml
+++Details.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\product\details.cshtml
+++Update.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\product\update.cshtml
+++Shared
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\shared\
+++_Layout.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\shared\_validationscriptspartial.cshtml
+++_View.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\shared\_view.cshtml
+++_ViewImports.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\views\_viewstart.cshtml
+++appsettings.json
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\appsettings.json
+++Program.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\program.cs
+++Startup.cs
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\startup.cs
+++No service dependencies discovered
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:>1200
+++Analyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:analyzers
+++Frameworks
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:frameworks
+++Packages
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:packages
+++site.css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\css\site.css
+++dist
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery\dist\
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery\license.txt
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++appsettings.Development.json
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\users\natali\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\users\natali\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:c:\users\natali\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.15\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (5.0.15)
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:>1211
+++Microsoft.EntityFrameworkCore.Sqlite (5.0.15)
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:>1213
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.15)
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:>1212
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:>1214
+++jquery.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++Error - Copy.html
+++htmlpage.html
+++Error.html
+i:{55e14cdc-111a-482a-8c86-b538420f4548}:d:\mssa training\5. 20486\assignments\week 13\assignment 13.2\wwwroot\error.html

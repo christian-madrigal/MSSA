@@ -168,3 +168,4 @@ D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2\obj\Debug\net5.0\r
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2\obj\Debug\net5.0\Assignment 13.2.pdb
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2\obj\Debug\net5.0\Assignment 13.2.genruntimeconfig.cache
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2\obj\Debug\net5.0\ref\Assignment 13.2.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2\obj\Debug\net5.0\Razor\Views\Home\Error.cshtml.g.cs
