@@ -27,7 +27,7 @@ namespace Assignment_13._2._1.Client.Controllers
             httpClient.BaseAddress = new Uri("http://localhost:24175/");
             var response = httpClient.GetStringAsync("http://localhost:24175/api/Product");
             //return Content(response.Result);
-            return View();
+            return Content(response.Result);
             
         }
 

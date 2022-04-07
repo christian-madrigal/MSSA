@@ -37,3 +37,42 @@ D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.genruntimeconfig.cache
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\ref\Assignment 13.2.1.Client.dll
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.csproj.CopyComplete
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\appsettings.json
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.exe
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.deps.json
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.runtimeconfig.json
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.runtimeconfig.dev.json
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.dll
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.pdb
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.Views.dll
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\bin\Debug\net5.0\Assignment 13.2.1.Client.Views.pdb
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.csproj.AssemblyReference.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.AssemblyInfoInputs.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.AssemblyInfo.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.csproj.CoreCompileInputs.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorAssemblyInfo.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorAssemblyInfo.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\scopedcss\bundle\Assignment 13.2.1.Client.styles.css
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\staticwebassets\Assignment 13.2.1.Client.StaticWebAssets.Manifest.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.TagHelpers.input.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.TagHelpers.output.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorCoreGenerate.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.RazorTargetAssemblyInfo.cs
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.Views.pdb
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.dll
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\refint\Assignment 13.2.1.Client.dll
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.pdb
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.genruntimeconfig.cache
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\ref\Assignment 13.2.1.Client.dll
+C:\Users\Natali\Documents\GitHub\MSSA\Week 13\Assignment 13.2.1.Client\obj\Debug\net5.0\Assignment 13.2.1.Client.csproj.CopyComplete
