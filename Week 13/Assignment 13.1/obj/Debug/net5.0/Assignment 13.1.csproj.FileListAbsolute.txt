@@ -170,3 +170,5 @@ D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.1\obj\Debug\net5.0\A
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.1\obj\Debug\net5.0\Assignment 13.1.csproj.CopyComplete
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.1\obj\Debug\net5.0\Assignment 13.1.genruntimeconfig.cache
 D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.1\obj\Debug\net5.0\ref\Assignment 13.1.dll
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.1\obj\Debug\net5.0\Razor\Views\Shared\_Gallery.cshtml.g.cs
+D:\MSSA Training\5. 20486\Assignments\Week 13\Assignment 13.1\obj\Debug\net5.0\Razor\Views\Gallery\Index.cshtml.g.cs
