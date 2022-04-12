@@ -45,11 +45,11 @@ namespace Assignment_12._4.Models
             Product prod = _productContext.Products.Find(product.Id);
             if (product != null)
             {
-                prod.Id = prod.Id;
-                prod.Name = prod.Name;
-                prod.Description = prod.Description;
-                prod.Price = prod.Price;
-                prod.ImageName = prod.ImageName;
+                prod.Id = product.Id;
+                prod.Name = product.Name;
+                prod.Description = product.Description;
+                prod.Price = product.Price;
+                prod.ImageName = product.ImageName;
                 _productContext.SaveChanges();
             }
         }

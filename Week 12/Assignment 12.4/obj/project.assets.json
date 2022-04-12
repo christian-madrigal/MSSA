@@ -8983,11 +8983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MSSA Training\\5. 20486\\Assignments\\Week 12\\Assignment 12.4\\Assignment 12.4.csproj",
+      "projectUniqueName": "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 12\\Assignment 12.4\\Assignment 12.4.csproj",
       "projectName": "Assignment 12.4",
-      "projectPath": "D:\\MSSA Training\\5. 20486\\Assignments\\Week 12\\Assignment 12.4\\Assignment 12.4.csproj",
+      "projectPath": "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 12\\Assignment 12.4\\Assignment 12.4.csproj",
       "packagesPath": "C:\\Users\\Natali\\.nuget\\packages\\",
-      "outputPath": "D:\\MSSA Training\\5. 20486\\Assignments\\Week 12\\Assignment 12.4\\obj\\",
+      "outputPath": "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 12\\Assignment 12.4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
