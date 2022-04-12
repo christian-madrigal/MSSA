@@ -34,7 +34,7 @@ namespace Assignment_13._3.Controllers
         [Authorize()]
         public IActionResult Create()
         {
-            //ViewBag.Servertime = DateTime.Now.ToString();
+            ViewBag.Servertime = DateTime.Now.ToString();
             return View();
         }
         [HttpPost]
@@ -42,7 +42,7 @@ namespace Assignment_13._3.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Product obj)
         {
-            //ViewBag.Servertime = DateTime.Now.ToString();
+            ViewBag.Servertime = DateTime.Now.ToString();
             //validation attributes
             if (ModelState.IsValid)
             {
