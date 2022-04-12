@@ -46,28 +46,27 @@ namespace Assignment_13._3
 
 
         }
-        //public async void CreateRoles(RoleManager<IdentityRole> roleManager)
-        //{
-        //    string[] rolenames = { "Admin", "Employee" };
-        //    foreach (var rolename in rolenames)
-        //    {
-        //        bool roleExists = await roleManager.RoleExistsAsync(rolename);
-        //        if (!roleExists)
-        //        {
-        //            IdentityRole role = new IdentityRole();
-        //            role.Name = rolename;
-        //            await roleManager.CreateAsync(role);
-        //        }
-        //    }
-        //}
+        static async Task CreateRoles(RoleManager<IdentityRole> roleManager)
+        {
+            string[] rolenames = { "Admin", "Customer" };
+            foreach (var rolename in rolenames)
+            {
+                bool roleExists = await roleManager.RoleExistsAsync(rolename);
+                if (!roleExists)
+                {
+                    IdentityRole role = new IdentityRole();
+                    role.Name = rolename;
+                    IdentityResult result= await roleManager.CreateAsync(role);
+                }
+            }
+        }
 
 
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, CustomerContext userContext, RoleManager<IdentityRole> roleManager)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ProductContext productContext, CustomerContext userContext, RoleManager<IdentityRole> roleManager)
         {
-            //employeeContext.Database.EnsureDeleted();
-            //employeeContext.Database.EnsureCreated();
+            productContext.Database.EnsureCreated();
             userContext.Database.EnsureCreated();
             //userContext.Dispose();
             // create 2 roles

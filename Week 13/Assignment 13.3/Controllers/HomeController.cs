@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Assignment_13._3.Controllers
 {
@@ -18,6 +19,7 @@ namespace Assignment_13._3.Controllers
             _logger = logger;
         }
 
+        [AllowAnonymous]
         public IActionResult Index()
         {
             return View();

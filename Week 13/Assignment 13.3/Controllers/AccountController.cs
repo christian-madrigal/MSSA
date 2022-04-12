@@ -12,7 +12,6 @@ namespace Assignment_13._3.Controllers
         private SignInManager<Customer> _signInManager;
         private UserManager<Customer> _userManager;
         private RoleManager<IdentityRole> _roleManager;
-
         public AccountController(SignInManager<Customer> signInManager, UserManager<Customer> userManager, RoleManager<IdentityRole> roleManager)
         {
             _signInManager = signInManager;
@@ -25,7 +24,7 @@ namespace Assignment_13._3.Controllers
         {
             if (this.User.Identity.IsAuthenticated)
             {
-                return RedirectToAction("Index", "Employee");
+                return RedirectToAction("Index", "Home");
             }
             return View();
         }
@@ -38,7 +37,7 @@ namespace Assignment_13._3.Controllers
                 // user is authenticated
                 if (result.Succeeded)
                 {
-                    return RedirectToAction("Index", "Employee");
+                    return RedirectToAction("Index", "Product");
                 }
             }
             ModelState.AddModelError("", "Failed to login");
@@ -64,15 +63,15 @@ namespace Assignment_13._3.Controllers
                 if (result.Succeeded)
                 {
                     var addedUser = await _userManager.FindByNameAsync(newuser.UserName);
-                    //if (addedUser.UserName == "Admin")
-                    //{
-                    //    await _userManager.AddToRoleAsync(addedUser, "Admin");
-                    //    await _userManager.AddToRoleAsync(addedUser, "Employee");
-                    //}
-                    //else
-                    //{
-                    //    await _userManager.AddToRoleAsync(addedUser, "Employee");
-                    //}
+                    if (addedUser.UserName == "Admin")
+                    {
+                        await _userManager.AddToRoleAsync(addedUser, "Admin");
+                        await _userManager.AddToRoleAsync(addedUser, "Customer");
+                    }
+                    else
+                    {
+                        await _userManager.AddToRoleAsync(addedUser, "Customer");
+                    }
                     return RedirectToAction("Login", "Account");
                 }
                 foreach (var error in result.Errors)
@@ -88,18 +87,20 @@ namespace Assignment_13._3.Controllers
 
 
         // this method can also be synchronous
-        public async Task<IActionResult> Logout()
+
+        public IActionResult Index()
         {
-            await _signInManager.SignOutAsync();
-            return RedirectToAction("Index", "Home");
+            return View();
         }
         public IActionResult Register()
         {
             return View();
         }
-        public IActionResult Index()
+       
+        public async Task<IActionResult> Logout()
         {
-            return View();
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Index", "Home");
         }
     }
 }
