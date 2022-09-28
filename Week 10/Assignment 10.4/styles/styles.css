@@ -29,8 +29,8 @@ body, html {
 }
 
 #map {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: auto;
     border-radius: 10px;
 }
 
@@ -44,9 +44,9 @@ body, html {
 }
 
 .container1 {
-  height: 200px;
-  position: relative;
-  padding-top: 50%;
+    height: 200px;
+    position: relative;
+    padding-top: 50%;
 }
 
 .center1 {
@@ -62,6 +62,10 @@ div.transbox {
   background-color: #ffffff;
   border: 1px solid black;
   opacity: 0.6;
+}
+
+.container-fluid{
+
 }
 
 
