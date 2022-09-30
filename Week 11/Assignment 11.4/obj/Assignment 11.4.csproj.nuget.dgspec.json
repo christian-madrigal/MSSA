@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MSSA Training\\5. 20486\\Assignments\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj": {}
+    "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj": {}
   },
   "projects": {
-    "D:\\MSSA Training\\5. 20486\\Assignments\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj": {
+    "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MSSA Training\\5. 20486\\Assignments\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj",
+        "projectUniqueName": "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj",
         "projectName": "Assignment 11.4",
-        "projectPath": "D:\\MSSA Training\\5. 20486\\Assignments\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj",
+        "projectPath": "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 11\\Assignment 11.4\\Assignment 11.4.csproj",
         "packagesPath": "C:\\Users\\Natali\\.nuget\\packages\\",
-        "outputPath": "D:\\MSSA Training\\5. 20486\\Assignments\\Week 11\\Assignment 11.4\\obj\\",
+        "outputPath": "C:\\Users\\Natali\\Documents\\GitHub\\MSSA\\Week 11\\Assignment 11.4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -28,6 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -69,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
         }
       }
     }
