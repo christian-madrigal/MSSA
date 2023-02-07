@@ -70,7 +70,7 @@
     <Content Include="ArithFunc.html" />
     <Content Include="Arrays.html" />
     <Content Include="Hobby.html" />
-    <Content Include="Home.html" />
+    <Content Include="index.html" />
     <Content Include="Scripts\DomScript.js" />
     <Content Include="styles\site.css" />
     <Content Include="Web.config" />
